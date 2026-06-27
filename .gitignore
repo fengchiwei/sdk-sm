@@ -6,8 +6,8 @@
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
+[Rr]release/
+[Rr]releases/
 x64/
 x86/
 build/
@@ -56,3 +56,5 @@ support/schemas
 
 # Cmake build files
 languages/cpp/cmake-build-debug
+
+.fake
